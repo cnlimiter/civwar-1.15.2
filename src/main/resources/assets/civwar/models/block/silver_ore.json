@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "civwar:blocks/ore_silver",
+    "up": "civwar:blocks/ore_silver",
+    "north": "civwar:blocks/ore_silver",
+    "east": "civwar:blocks/ore_silver",
+    "south": "civwar:blocks/ore_silver",
+    "west": "civwar:blocks/ore_silver",
+    "particle": "civwar:blocks/ore_silver"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "block.civwar.silver_ore": "Silver Ore",
+  "item.civwar.civ_book": "Civ Book",
+  "block.civwar.copper_ore": "Copper Ore",
+  "itemGroup.tabciv_war_core": "Civ War Core",
+  "block.civwar.tin_ore": "Tin Ore",
+  "block.civwar.aluminum_ore": "Aluminum Ore",
+  "itemGroup.tabciv_war_ore": "Civ War Ore"
+}

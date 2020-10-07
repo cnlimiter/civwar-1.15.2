@@ -1,0 +1,9 @@
+{
+  "block.civwar.silver_ore": "银矿石",
+  "item.civwar.civ_book": "文明指南",
+  "block.civwar.copper_ore": "铜矿石",
+  "itemGroup.tabciv_war_core": "文明：核心",
+  "block.civwar.tin_ore": "锡矿石",
+  "block.civwar.aluminum_ore": "铝矿石",
+  "itemGroup.tabciv_war_ore": "文明：矿石"
+}

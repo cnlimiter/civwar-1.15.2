@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Civ War Ore",
+    "icon": {
+      "value": "CUSTOM:CopperOre"
+    },
+    "showSearch": false
+  }
+}

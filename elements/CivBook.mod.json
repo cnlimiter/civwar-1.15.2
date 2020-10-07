@@ -1,0 +1,30 @@
+{
+  "_fv": 10,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "civ_book",
+    "customModelName": "Normal",
+    "name": "Civ Book",
+    "creativeTab": {
+      "value": "CUSTOM:CivWar"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "战争与文明指南手册"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "CivBookGui",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CivBook",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "civ_book"
+    },
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "AluminumOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aluminum_ore"
+    },
+    {
+      "name": "CivBookGui",
+      "type": "gui",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "civ_book_gui"
+    },
+    {
+      "name": "CivWarOre",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "civ_war_ore"
+    },
+    {
+      "name": "CivWarCore",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "civ_war_core"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "xingfu",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0.0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.civwar.silver_ore": "Silver Ore",
+      "item.civwar.civ_book": "Civ Book",
+      "block.civwar.copper_ore": "Copper Ore",
+      "itemGroup.tabciv_war_core": "Civ War Core",
+      "block.civwar.tin_ore": "Tin Ore",
+      "block.civwar.aluminum_ore": "Aluminum Ore",
+      "itemGroup.tabciv_war_ore": "Civ War Ore"
+    },
+    "zh_cn": {
+      "block.civwar.silver_ore": "银矿石",
+      "item.civwar.civ_book": "文明指南",
+      "block.civwar.copper_ore": "铜矿石",
+      "itemGroup.tabciv_war_core": "文明：核心",
+      "block.civwar.tin_ore": "锡矿石",
+      "block.civwar.aluminum_ore": "铝矿石",
+      "itemGroup.tabciv_war_ore": "文明：矿石"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "civwar",
+    "modName": "civwar",
+    "version": "1.0.0",
+    "author": "Administrator, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "cn.evolvefield.civwar",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

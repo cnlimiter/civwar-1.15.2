@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "civwar:blocks/ore_tin",
+    "up": "civwar:blocks/ore_tin",
+    "north": "civwar:blocks/ore_tin",
+    "east": "civwar:blocks/ore_tin",
+    "south": "civwar:blocks/ore_tin",
+    "west": "civwar:blocks/ore_tin",
+    "particle": "civwar:blocks/ore_tin"
+  }
+}
